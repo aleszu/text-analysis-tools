@@ -41,3 +41,5 @@ wordCount %>%
   xlab(NULL) +
   coord_flip()
 ```
+
+![Alt text](https://raw.githubusercontent.com/aleszu/text-analysis-tools/master/singlewordcount.png)
